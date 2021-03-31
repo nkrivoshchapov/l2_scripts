@@ -1,0 +1,13 @@
+%RWF=temp4_90724,50GB
+%nprocshared=14
+# HF/6-31G(d) scf=tight
+
+test1 HF/6-31G(d) sp formaldehyde
+
+0 1
+H 0.0 0.0 0.0
+H 1.0 0.0 0.0
+
+
+
+
